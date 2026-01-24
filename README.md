@@ -35,52 +35,49 @@ If you are completely new, start from Step 1 below.
 
 ## Learning Path
 
-### Step 1: Project Setup (Start Here)
-Learn how to prepare your computer and install the required tools.
-This step explains:
-- Node.js
-- npm
-- A code editor (VS Code)
-- How to check your setup
+This repository is divided into clear learning steps.
+Each step has its own folder and a dedicated README file.
 
-➡️ Go to: [Step 1 - Setup](01-setup/README.md)
+Follow the steps **in order**. Do not skip steps.
+
+---
+
+### Step 1: Project Setup
+Learn how to prepare your computer and understand the tools required to work with React.
+
+➡️ Go to: [01-setup](01-setup/README.md)
 
 ---
 
 ### Step 2: Create Your First React App
-After completing the setup step, you will create your first React application using **Vite**.
-This step explains:
-- How to generate the React project
-- Where the code files live (`react-app/src/`)
-- How to run your first component
+Learn how to create a React application using Vite and understand the project structure.
 
-➡️ Go to: [Step 2 - React App Creation](01-setup/README.md#creating-your-first-react-app)
-
-> Note: The React app is located in the `react-app/` folder inside this repository. All code examples from here on will be inside `react-app/src/`.
+➡️ Covered inside: [01-setup](01-setup/README.md)
 
 ---
 
 ### Step 3: React Basics
-Learn the core ideas of React:
-- What components are
-- How to create a simple component
-- How to render it in the app
-- How React updates the UI automatically
+Learn what JSX is and how React renders elements.
 
-➡️ The first example component is in: `react-app/src/components/Hello.jsx`  
-➡️ Beginner-friendly explanations are in: [02-react-basics/README.md](02-react-basics/README.md)
+➡️ Go to: [02-react-basics](02-react-basics/README.md)
 
 ---
 
-### Step 4 and Beyond
-Future steps will cover:
-- Components Module (functional vs reusable components)
-- Props
-- State
-- Events
-- Hooks
-- Conditional rendering
-- Lists and keys
+### Step 4: Components
+Learn how to create functional and reusable React components and organize them properly.
+
+➡️ Go to: [03-components](03-components/README.md)
+
+---
+
+### Step 5: Props
+Learn how to pass data into components using props and make components dynamic.
+
+➡️ Go to: [04-props](04-props/README.md)
+
+---
+
+More steps will be added gradually as you progress.
 
 Each step will have its **own folder, README, and code examples**.
 Follow the steps in order to avoid confusion.
