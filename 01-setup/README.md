@@ -77,13 +77,32 @@ Before moving to the next step, make sure:
 
 In the next step, you will create your first React application.
 
-## Next Step: Create Your First React Application
+## Create Your First React Application
 
-Once you have installed Node.js, npm, and a code editor, you are ready to create your first React application.
+Now that your tools are ready, let's create your first React application.
 
-In the next section, you will learn how to:
-- Use Vite to generate a React app
-- Understand the folder structure
-- Create your first component
-- See the result in your browser
+1. Open a terminal in your repository.
+2. Run:
+
+        npm create vite@latest react-app
+
+3. Choose React + JavaScript
+4. Go into the project folder:
+
+        cd react-app
+
+        npm install
+
+        npm run dev
+
+5. Open `src/App.jsx` and replace the code with:
+
+        ```jsx
+        function App() {
+        return <h1>Hello React Beginners!</h1>
+        }
+        export default App
+       
+---
+
 
