@@ -83,7 +83,7 @@ Each part will be explained step by step in later sections.
 
 ➡️ **Next Step:**  
 Go to **Step 3 – Components & JSX**  
-[Step 3 – Components & JSX](03-components/README.md)
+[Step 3 – Components & JSX](../03-components/README.md)
 
 ⬅️ **Back to Setup:**  
 [Step 1 – Environment Setup](../01-setup/README.md)
