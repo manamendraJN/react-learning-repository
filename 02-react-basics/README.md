@@ -32,8 +32,8 @@ Open a terminal in the folder where you want to create your project.
 
 Run the following command:
 
-    npx create-react-app react-app
-
+    npm create vite@latest react-app
+- Choose React then JavaScript
 
 This command:
 - Downloads required tools
@@ -43,7 +43,7 @@ This command:
 ### Step 3: Move into the project folder
 
     cd react-app
-
+    npm install
 
 ### Step 4: Start the development server
 
