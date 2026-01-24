@@ -1,24 +1,92 @@
-# Step 2: React Basics
+# Step 2: React Basics & Creating Your First App
 
-In this step, you will learn the core ideas of React.
+In this step, you will create your first React application and understand the basic concepts behind it.
 
-React allows you to create **interactive websites** using **components**.
-Even though the term "component" may sound complicated, it’s just a **piece of UI** that you can reuse.
+This step assumes you have completed **Step 1 – Environment Setup**.
 
-## What You Will Learn Here
+---
 
-- What a React component is
-- How to create a simple component
-- How to render it in the app
-- How React updates the UI automatically
+## What Is React?
 
-## First Example: Simple Component
+React is a JavaScript library used to build user interfaces.
+It allows you to create reusable components and manage UI state efficiently.
 
-Follow the instructions in the code to create your first React component.
-The actual code is inside `src/components/Hello.jsx`.
+React applications are built using:
+- Components
+- JSX (JavaScript + HTML)
+- State and Props
 
-## Key Points for Beginners
+You will learn these concepts practically.
 
-- Every component is a **function that returns JSX**
-- JSX looks like HTML but is **JavaScript under the hood**
-- You can reuse components anywhere by importing them
+---
+
+## Creating Your First React App
+
+We will use **Create React App**, a beginner-friendly tool.
+
+### Step 1: Open the terminal
+
+Open a terminal in the folder where you want to create your project.
+
+### Step 2: Create the React app
+
+Run the following command:
+
+    npx create-react-app react-app
+
+
+This command:
+- Downloads required tools
+- Creates a ready-to-use React project
+- Sets up a development server
+
+### Step 3: Move into the project folder
+
+    cd my-first-react-app
+
+
+### Step 4: Start the development server
+
+    npm start
+
+
+Open browser at:
+
+http://localhost:5173
+
+You have successfully created your first React app 🎉
+
+---
+
+## Understanding the Project Structure
+
+Important folders and files:
+
+- `src/` → Where your React code lives
+- `public/` → Static files
+- `src/App.js` → Main component
+- `src/index.js` → App entry point
+
+Do not worry if this looks confusing.
+Each part will be explained step by step in later sections.
+
+---
+
+## What You Learned in This Step
+
+- What React is
+- How to create a React app
+- How to run a React app
+- Basic project structure
+
+---
+
+➡️ **Next Step:**  
+Go to **Step 3 – Components & JSX**  
+[Step 3 – Components & JSX](03-components/README.md)
+
+⬅️ **Back to Setup:**  
+[Step 1 – Environment Setup](../01-setup/README.md)
+
+⬅️ **Back to Main Guide:**  
+[Main README](../README.md)
