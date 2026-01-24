@@ -1,4 +1,4 @@
-# Step 6: State (useState)
+# Step 5: State (useState)
 
 In this step, you will learn about **state**, which allows a component to **remember and update data**.
 
