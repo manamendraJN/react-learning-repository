@@ -70,7 +70,7 @@ Learn how to pass data into components using props and make components dynamic.
 
 ---
 
-### Step 6: State (useState)
+### Step 5: State (useState)
 Learn how components manage their own data and update the UI using state.
 
 ➡️ Go to: [05-state](05-state/README.md)
