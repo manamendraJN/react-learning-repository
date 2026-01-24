@@ -47,7 +47,7 @@ This command:
 
 ### Step 4: Start the development server
 
-    npm start
+    npm run dev
 
 
 Open browser at:
