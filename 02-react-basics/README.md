@@ -42,7 +42,7 @@ This command:
 
 ### Step 3: Move into the project folder
 
-    cd my-first-react-app
+    cd react-app
 
 
 ### Step 4: Start the development server
