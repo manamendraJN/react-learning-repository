@@ -36,20 +36,51 @@ If you are completely new, start from Step 1 below.
 ## Learning Path
 
 ### Step 1: Project Setup (Start Here)
-Learn how to prepare your computer and create your first React application.
-This step explains every tool and command in simple language.
+Learn how to prepare your computer and install the required tools.
+This step explains:
+- Node.js
+- npm
+- A code editor (VS Code)
+- How to check your setup
 
 ➡️ Go to: [Step 1 - Setup](01-setup/README.md)
-
-More steps will be added gradually as you progress.
 
 ---
 
 ### Step 2: Create Your First React App
-After completing the setup step, you will create your first React application.
-Step-by-step instructions will guide you to:
-- Use Vite to create a React project
-- Understand the folder structure
-- Run your first component in the browser
+After completing the setup step, you will create your first React application using **Vite**.
+This step explains:
+- How to generate the React project
+- Where the code files live (`react-app/src/`)
+- How to run your first component
 
-➡️ This will be included in the [Step 1 - Setup](01-setup/README.md) under "Creating Your First React App"
+➡️ Go to: [Step 2 - React App Creation](01-setup/README.md#creating-your-first-react-app)
+
+> Note: The React app is located in the `react-app/` folder inside this repository. All code examples from here on will be inside `react-app/src/`.
+
+---
+
+### Step 3: React Basics
+Learn the core ideas of React:
+- What components are
+- How to create a simple component
+- How to render it in the app
+- How React updates the UI automatically
+
+➡️ The first example component is in: `react-app/src/components/Hello.jsx`  
+➡️ Beginner-friendly explanations are in: [02-react-basics/README.md](02-react-basics/README.md)
+
+---
+
+### Step 4 and Beyond
+Future steps will cover:
+- Components Module (functional vs reusable components)
+- Props
+- State
+- Events
+- Hooks
+- Conditional rendering
+- Lists and keys
+
+Each step will have its **own folder, README, and code examples**.
+Follow the steps in order to avoid confusion.
