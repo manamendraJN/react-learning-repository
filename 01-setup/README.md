@@ -19,7 +19,7 @@ Without Node.js, React applications cannot run.
 
 Open a terminal and run:
 
-node -v
+    node -v
 
 
 - If you see a version number, Node.js is installed.
@@ -42,7 +42,7 @@ It is used to download and manage libraries needed by React.
 
 You can check npm by running:
 
-npm -v
+    npm -v
 
 
 - If a version number is shown, npm is working correctly.
