@@ -42,38 +42,31 @@ Follow the steps **in order**. Do not skip steps.
 
 ---
 
-### Step 1: Project Setup
+### Step 1: Environment Setup
 Learn how to prepare your computer and understand the tools required to work with React.
 
-➡️ Go to: [01-setup](01-setup/README.md)
+➡️ Go to: [Step 1 – Setting Up Your Environment](01-setup/README.md)
 
 ---
 
-### Step 2: Create Your First React App
-Learn how to create a React application using Vite and understand the project structure.
+### Step 2: React Basics & First App
+Learn what React is and create your first React application.
 
-➡️ Covered inside: [01-setup](01-setup/README.md)
-
----
-
-### Step 3: React Basics
-Learn what JSX is and how React renders elements.
-
-➡️ Go to: [02-react-basics](02-react-basics/README.md)
+➡️ Go to: [Step 2 – React Basics & First App](02-react-basics/README.md)
 
 ---
 
-### Step 4: Components
-Learn how to create functional and reusable React components and organize them properly.
+### Step 3: Components & JSX
+Understand components, JSX, and how React builds UI.
 
-➡️ Go to: [03-components](03-components/README.md)
+➡️ Go to: [Step 3 – Components & JSX](03-components/README.md)
 
 ---
 
-### Step 5: Props
+### Step 4: Props
 Learn how to pass data into components using props and make components dynamic.
 
-➡️ Go to: [04-props](04-props/README.md)
+➡️ Go to: [Step 4-props](04-props/README.md)
 
 ---
 
