@@ -45,10 +45,11 @@ More steps will be added gradually as you progress.
 
 ---
 
-## Important Advice for Beginners
+### Step 2: Create Your First React App
+After completing the setup step, you will create your first React application.
+Step-by-step instructions will guide you to:
+- Use Vite to create a React project
+- Understand the folder structure
+- Run your first component in the browser
 
-Take your time.
-Read carefully.
-Type the code yourself.
-
-Understanding the basics is more important than finishing quickly.
+➡️ This will be included in the [Step 1 - Setup](01-setup/README.md) under "Creating Your First React App"
