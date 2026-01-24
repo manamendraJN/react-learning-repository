@@ -1,6 +1,11 @@
+import Hello from './components/Hello'
+
 function App() {
   return (
-    <h1>Hello React Beginners!</h1>
+    <div>
+      <h1>React Fundamentals</h1>
+      <Hello />
+    </div>
   )
 }
 
