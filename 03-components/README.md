@@ -83,9 +83,9 @@ export default App
 ```
 Save the file and refresh your browser. You should see:
 
-- Hello React Basics (from Hello.jsx)
+- This is a functional component!
 
-- This is a functional component! (from Message.jsx)
+- Functional components are just JavaScript functions that return JSX. (from Message.jsx)
 
 Components can be used multiple times without rewriting the code.
 
