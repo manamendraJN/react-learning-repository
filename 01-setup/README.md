@@ -80,7 +80,7 @@ Before moving to the next step, make sure:
 
 ➡️ **Next Step:**  
 Go to **Step 2 – React Basics & App Creation**  
-[Continue to Step 2](../02-react-basic/README.md)
+[Continue to Step 2](../02-react-basics/README.md)
 
 ⬅️ **Back to Main Guide:**  
 [Main README](../README.md)
