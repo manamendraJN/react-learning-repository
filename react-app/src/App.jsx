@@ -1,6 +1,7 @@
 import Hello from './components/Hello'
 import Message from './components/Message'
 import User from './components/User'
+import Counter from './components/Counter'
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
 
       <User name="Navodya" age={22} />
       <User name="Alex" age={25} />
-      <User name="Maria" age={30} />
+
+      <Counter />
     </div>
   )
 }
