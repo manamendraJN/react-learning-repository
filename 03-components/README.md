@@ -1,31 +1,57 @@
-# Step 3: Components Module
+# Step 3: Components & JSX
 
-In this step, you will learn about **components**, which are the **building blocks of React**.
+In this step, you will learn the **core building blocks of React**:
+- Components
+- JSX
 
-A component is a **function** that returns a part of your UI.  
-Instead of writing all your UI in one file, components let you **split your app into reusable pieces**. This makes your code easier to read, maintain, and reuse.
-
----
-
-## What You Will Learn
-
-- What a functional component is
-- How to create reusable components
-- How to import and use components in your app
-- Why components are important for organizing React projects
+You will modify the React app you created in Step 2.
 
 ---
 
-## Creating Components
+## What Is a Component?
 
-### 1. Functional Component
+A component is a **reusable piece of UI**.
+React applications are built by combining many components.
 
-A functional component is **just a JavaScript function** that returns JSX.  
+Examples:
+- Header
+- Button
+- Footer
+- Profile card
 
-**Steps to create your first functional component:**
+Each component is a JavaScript function.
 
-1. Inside `react-app/src/components/`, create a file called `Message.jsx`
-2. Copy this code into `Message.jsx`:
+---
+
+## Open the Project in VS Code
+
+1. Open VS Code
+2. Open the folder `react-app`
+3. Go to the `src` folder
+
+---
+
+## Understanding JSX
+
+JSX looks like HTML, but it is written inside JavaScript.
+
+Example:
+
+```js
+function App() {
+  return <h1>Hello React</h1>;
+}
+```
+
+JSX makes React code easier to read and write.
+
+## Creating Your First Component
+
+Inside the src folder, create a new folder called `components`
+
+Inside that `components`, create a file called `Message.jsx`
+
+Copy this code into `Message.jsx`:
 
 ```jsx
 function Message() {
@@ -39,7 +65,7 @@ function Message() {
 
 export default Message
 ```
-3. Open react-app/src/App.jsx and replace its content with:
+Open `react-app/src/App.jsx` and replace its content with:
 
 ```jsx
 import Hello from './components/Hello'
@@ -57,7 +83,7 @@ function App() {
 
 export default App
 ```
-4. Save the file and refresh your browser. You should see:
+Save the file and refresh your browser. You should see:
 
 - Hello React Basics (from Hello.jsx)
 
@@ -79,3 +105,5 @@ function App() {
 }
 ```
 All three <Message /> instances display the same content, demonstrating reusability.
+
+
