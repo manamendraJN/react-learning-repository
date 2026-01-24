@@ -39,7 +39,7 @@ If you are completely new, start from Step 1 below.
 Learn how to prepare your computer and create your first React application.
 This step explains every tool and command in simple language.
 
-➡️ Go to: `01-setup/README.md`
+➡️ Go to: [Step 1 - Setup](01-setup/README.md)
 
 More steps will be added gradually as you progress.
 
