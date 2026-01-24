@@ -19,19 +19,21 @@ Without Node.js, React applications cannot run.
 
 Open a terminal and run:
 
-    node -v
+        node -v
 
 
 - If you see a version number, Node.js is installed.
-- If you get an error or no version is shown, Node.js is **not installed**.
+- If you get an error, Node.js is not installed.
 
-#### Install Node.js if needed
+### Install Node.js (if not installed)
 
-Download and install the **LTS (Long Term Support) version** from the official website:
+Download and install the **LTS version** from the official website:
 
 [https://nodejs.org](https://nodejs.org)
 
-After installation, restart your terminal and run `node -v` again to confirm it works.
+After installation:
+1. Restart your terminal
+2. Run `node -v` again to confirm it works
 
 ---
 
@@ -40,13 +42,13 @@ After installation, restart your terminal and run `node -v` again to confirm it 
 npm comes with Node.js.
 It is used to download and manage libraries needed by React.
 
-You can check npm by running:
+Check npm by running:
 
-    npm -v
+        npm -v
 
 
-- If a version number is shown, npm is working correctly.
-- If npm is not recognized, reinstall Node.js from [https://nodejs.org](https://nodejs.org)
+- If a version number appears, npm is working.
+- If not, reinstall Node.js from [https://nodejs.org](https://nodejs.org)
 
 ---
 
@@ -55,12 +57,11 @@ You can check npm by running:
 You need a code editor to write React code.
 A code editor helps you read, write, and organize files.
 
-A popular and beginner-friendly editor is:
+### Recommended Editor
+
 - **Visual Studio Code (VS Code)**
 
-#### Install VS Code if needed
-
-Download it from the official website:
+Download VS Code from:
 
 [https://code.visualstudio.com](https://code.visualstudio.com)
 
@@ -75,34 +76,13 @@ Before moving to the next step, make sure:
 - npm works in the terminal
 - A code editor is installed and ready
 
-In the next step, you will create your first React application.
-
-## Create Your First React Application
-
-Now that your tools are ready, let's create your first React application.
-
-1. Open a terminal in your repository.
-2. Run:
-
-        npm create vite@latest react-app
-
-3. Choose React + JavaScript
-4. Go into the project folder:
-
-        cd react-app
-
-        npm install
-
-        npm run dev
-
-5. Open `src/App.jsx` and replace the code with:
-
-        ```jsx
-        function App() {
-        return <h1>Hello React Beginners!</h1>
-        }
-        export default App
-       
 ---
+
+➡️ **Next Step:**  
+Go to **Step 2 – React Basics & App Creation**  
+[Continue to Step 2](../02-react-basic/README.md)
+
+⬅️ **Back to Main Guide:**  
+[Main README](../README.md)
 
 
