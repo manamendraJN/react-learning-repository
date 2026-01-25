@@ -3,6 +3,9 @@ import User from './components/User'
 import Counter from './components/Counter'
 import ClickDemo from './components/ClickDemo'
 import InputDemo from './components/InputDemo'
+import ToggleMessage from './components/ToggleMessage'
+import StatusMessage from './components/StatusMessage'
+import HiddenMessage from './components/HiddenMessage'
 
 function App() {
   return (
@@ -18,7 +21,10 @@ function App() {
 
       <ClickDemo />
       <InputDemo />
-      
+
+      <ToggleMessage />
+      <StatusMessage isLoggedIn={false} />
+      <HiddenMessage isVisible={true} />
     </div>
   )
 }

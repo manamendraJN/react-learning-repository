@@ -84,6 +84,13 @@ Learn how React handles user actions such as clicks and input changes.
 
 ---
 
+### Step 7: Conditional Rendering
+Learn how to show or hide UI elements based on conditions.
+
+➡️ Go to: [07-conditional-rendering](07-conditional-rendering/README.md)
+
+---
+
 More steps will be added gradually as you progress.
 
 Each step will have its **own folder, README, and code examples**.

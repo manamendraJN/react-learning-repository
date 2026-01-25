@@ -139,8 +139,8 @@ export default App
 In the next step, you will learn about Conditional Rendering, which allows you to show or hide content based on conditions.
 
 ➡️ **Next Step:**  
-Go to ****  
-[](..//README.md)
+Go to **Step 07 - Conditional Rendering**  
+[Step 07 - Conditional Rendering](../07-conditional-rendering/README.md)
 
 ⬅️ **Back to Setup:**  
 Go to **Step 5 - Props**   

@@ -108,7 +108,7 @@ When `setCount` is called:
 - Each component manages its own state
 
 ➡️ **Next Step:**  
-Go to ****  
+Go to **Step 6 - Events**  
 [Step 6 - Events](../06-events/README.md)
 
 ⬅️ **Back to Setup:**  
