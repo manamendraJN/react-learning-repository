@@ -106,3 +106,15 @@ When `setCount` is called:
 - Always use the setter function
 - State updates cause re-renders
 - Each component manages its own state
+
+➡️ **Next Step:**  
+Go to ****  
+[](..//README.md)
+
+⬅️ **Back to Setup:**  
+Go to **Step 4 - Props**   
+[Step 4 – props](../04-props/README.md)
+
+⬅️ **Back to Main Guide:**  
+[Main README](../README.md)
+
