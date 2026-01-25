@@ -102,8 +102,8 @@ Go to **Step 5 – State**
 [Step 5 – State](../05-state/README.md)
 
 ⬅️ **Back to Setup:**  
-Go to **Step 4 – Props**   
-[Step 4 – props](../04-props/README.md)
+Go to **Step 3 – Components & JSX**   
+[Step 3 – Components & JSX](../03-components/README.md)
 
 ⬅️ **Back to Main Guide:**  
 [Main README](../README.md)
