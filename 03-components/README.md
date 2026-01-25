@@ -108,7 +108,7 @@ All three <Message /> instances display the same content, demonstrating reusabil
 
 ➡️ **Next Step:**  
 Go to **Step 4 – Props**  
-[Step 3 – props](../04-props/README.md)
+[Step 4 – props](../04-props/README.md)
 
 ⬅️ **Back to Setup:**  
 Go to **Step 2 – React Basics & App Creation**  
