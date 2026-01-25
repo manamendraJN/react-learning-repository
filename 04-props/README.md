@@ -96,3 +96,14 @@ export default App
 ## 6. Next Steps
 
 In the next step, you will learn about State, which allows components to manage their own data.
+
+➡️ **Next Step:**  
+Go to **Step 5 – State**  
+[Step 5 – State](../05-state/README.md)
+
+⬅️ **Back to Setup:**  
+Go to **Step 4 – Props**   
+[Step 3 – props](../04-props/README.md)
+
+⬅️ **Back to Main Guide:**  
+[Main README](../README.md)
