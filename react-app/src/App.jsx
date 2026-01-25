@@ -1,6 +1,8 @@
 import Message from './components/Message'
 import User from './components/User'
 import Counter from './components/Counter'
+import ClickDemo from './components/ClickDemo'
+import InputDemo from './components/InputDemo'
 
 function App() {
   return (
@@ -13,6 +15,9 @@ function App() {
       <User name="Alex" age={25} />
 
       <Counter />
+
+      <ClickDemo />
+      <InputDemo />
       
     </div>
   )

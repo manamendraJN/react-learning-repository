@@ -77,6 +77,13 @@ Learn how components manage their own data and update the UI using state.
 
 ---
 
+### Step 6: Events and User Interaction
+Learn how React handles user actions such as clicks and input changes.
+
+➡️ Go to: [06-events](06-events/README.md)
+
+---
+
 More steps will be added gradually as you progress.
 
 Each step will have its **own folder, README, and code examples**.

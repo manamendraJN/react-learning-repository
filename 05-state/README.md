@@ -109,7 +109,7 @@ When `setCount` is called:
 
 ➡️ **Next Step:**  
 Go to ****  
-[](..//README.md)
+[Step 6 - Events](../06-events/README.md)
 
 ⬅️ **Back to Setup:**  
 Go to **Step 4 - Props**   
