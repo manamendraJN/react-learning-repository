@@ -112,7 +112,7 @@ Go to **Step 4 – Props**
 
 ⬅️ **Back to Setup:**  
 Go to **Step 2 – React Basics & App Creation**  
-[Continue to Step 2](../02-react-basics/README.md)
+[Step 2 – React Basics & App Creation](../02-react-basics/README.md)
 
 ⬅️ **Back to Main Guide:**  
 [Main README](../README.md)
