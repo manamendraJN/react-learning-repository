@@ -103,7 +103,7 @@ Go to **Step 5 – State**
 
 ⬅️ **Back to Setup:**  
 Go to **Step 4 – Props**   
-[Step 3 – props](../04-props/README.md)
+[Step 4 – props](../04-props/README.md)
 
 ⬅️ **Back to Main Guide:**  
 [Main README](../README.md)
