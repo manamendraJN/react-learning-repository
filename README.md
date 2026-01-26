@@ -90,6 +90,19 @@ Learn how to show or hide UI elements based on conditions.
 ➡️ Go to: [07-conditional-rendering](07-conditional-rendering/README.md)
 
 ---
+### Step 8: Lists & Keys
+Learn how to render dynamic lists using `.map()` and keys.
+
+➡️ [Step 8 - Lists](08-lists/README.md)
+
+---
+
+### Step 9: Forms & User Input
+Learn how to handle user input and form submission.
+
+➡️ [Step 9 - Forms](09-forms/README.md)
+
+---
 
 More steps will be added gradually as you progress.
 
