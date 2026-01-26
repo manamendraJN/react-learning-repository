@@ -8,6 +8,8 @@ import StatusMessage from './components/StatusMessage'
 import HiddenMessage from './components/HiddenMessage'
 import NameList from './components/NameList'
 import UserList from './components/UserList'
+import SimpleForm from './components/SimpleForm'
+import SubmitForm from './components/SubmitForm'
 
 function App() {
   return (
@@ -30,6 +32,9 @@ function App() {
 
       <NameList />
       <UserList />
+
+      <SimpleForm />
+      <SubmitForm />
     </div>
   )
 }
