@@ -10,6 +10,8 @@ import NameList from './components/NameList'
 import UserList from './components/UserList'
 import SimpleForm from './components/SimpleForm'
 import SubmitForm from './components/SubmitForm'
+import UseStateCounter from './components/UseStateCounter'
+import UseStateInput from './components/UseStateInput'
 
 function App() {
   return (
@@ -35,6 +37,9 @@ function App() {
 
       <SimpleForm />
       <SubmitForm />
+
+      <UseStateCounter />
+      <UseStateInput />
     </div>
   )
 }

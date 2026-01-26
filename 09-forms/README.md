@@ -173,8 +173,8 @@ export default App
 - Updating state incorrectly
 
 ➡️ **Next Step:**  
-Go to ****  
-[](..//README.md)
+Go to **Step 10 - Hooks**  
+[Step 10 - Hooks ](../10-hooks/README.md)
 
 ⬅️ **Back to Setup:**  
 Go to **Step 8 - Lists**  
