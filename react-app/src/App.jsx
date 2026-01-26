@@ -6,6 +6,8 @@ import InputDemo from './components/InputDemo'
 import ToggleMessage from './components/ToggleMessage'
 import StatusMessage from './components/StatusMessage'
 import HiddenMessage from './components/HiddenMessage'
+import NameList from './components/NameList'
+import UserList from './components/UserList'
 
 function App() {
   return (
@@ -25,6 +27,9 @@ function App() {
       <ToggleMessage />
       <StatusMessage isLoggedIn={false} />
       <HiddenMessage isVisible={true} />
+
+      <NameList />
+      <UserList />
     </div>
   )
 }

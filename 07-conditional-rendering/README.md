@@ -173,8 +173,8 @@ In the next step, you will learn how to render lists using .map(),
 which is required for dynamic data.
 
 ➡️ **Next Step:**  
-Go to ****  
-[](..//README.md)
+Go to **Step 8 - Lists**  
+[Step 8 - Lists](../08-lists/README.md)
 
 ⬅️ **Back to Setup:**  
 Go to **Step 6 - Events**   
