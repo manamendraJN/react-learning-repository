@@ -166,7 +166,7 @@ export default App
 In the next step, you will learn how to handle forms and user input in React.
 
 ➡️ **Next Step:**  
-Go to ****  
+Go to **Step 09 - Forms**   
 [Step 09 - Forms](../09-forms/README.md)
 
 ⬅️ **Back to Setup:**  
