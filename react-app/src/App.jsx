@@ -12,6 +12,7 @@ import SimpleForm from './components/SimpleForm'
 import SubmitForm from './components/SubmitForm'
 import UseStateCounter from './components/UseStateCounter'
 import UseStateInput from './components/UseStateInput'
+import EffectDemo from './components/EffectDemo'
 
 function App() {
   return (
@@ -40,6 +41,8 @@ function App() {
 
       <UseStateCounter />
       <UseStateInput />
+
+      <EffectDemo />
     </div>
   )
 }

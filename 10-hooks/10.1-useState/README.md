@@ -183,11 +183,11 @@ Next, you will learn how to run side effects using another hook.
 
 ➡️ **Next Step:**  
 Go to **useEffect (Step 10.2)**  
-[useEffect Hook](./useEffect/README.md)
+[useEffect Hook](./10.2-useEffect/README.md)
 
 ⬅️ **Back to Setup:**  
-Go to **Step 10 - Hooks**   
-[Step 10 - Hooks](../10-hooks/README.md)
+Go to **Step 10 - Hooks**  
+[Step 10 - Hooks ](../10-hooks/README.md)
 
 ⬅️ **Back to Main Guide:**  
 [Main README](../README.md)
