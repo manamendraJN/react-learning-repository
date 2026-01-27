@@ -132,7 +132,7 @@ Go to ****
 
 ⬅️ **Back to Setup:**  
 Go to **useState (Step 10.1)**  
-[useState Hook](./10.1-useState/README.md)
+[useState Hook](../10.1-useState/README.md)
 
 ⬅️ **Back to Main Guide:**  
 [Main README](../README.md)
