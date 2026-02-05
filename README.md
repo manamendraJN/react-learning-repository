@@ -103,6 +103,10 @@ Learn how to handle user input and form submission.
 ➡️ [Step 9 - Forms](09-forms/README.md)
 
 ---
+### Step 10: React Hooks
+Learn hooks one by one with separate guides.
+
+➡️ [Step 10 - Hooks Overview](10-hooks/README.md)
 
 More steps will be added gradually as you progress.
 
