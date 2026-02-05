@@ -136,8 +136,6 @@ Go to **useState (Step 10.1)**
 
 ⬅️ **Back to Hooks Overview:**  
 Go to **Step 10 - Hooks**  
-[Step 10 - Hooks Overview](../10-hooks/README.md)
+[Step 10 - Hooks Overview](../README.md)
 
-⬅️ **Back to Main Guide:**  
-[Main README](../README.md)
 
