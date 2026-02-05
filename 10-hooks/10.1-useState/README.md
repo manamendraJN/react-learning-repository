@@ -1,4 +1,4 @@
-# Step 10.2 : useState Hook
+# Step 10.1: useState Hook
 
 In this step, you will learn how to use the **useState hook** in React.
 
@@ -187,8 +187,5 @@ Go to **useEffect (Step 10.2)**
 
 ⬅️ **Back to Hooks Overview:**  
 Go to **Step 10 - Hooks**  
-[Step 10 - Hooks Overview](../10-hooks/README.md)
-
-⬅️ **Back to Main Guide:**  
-[Main README](.../README.md)
+[Step 10 - Hooks Overview](../README.md)
 
