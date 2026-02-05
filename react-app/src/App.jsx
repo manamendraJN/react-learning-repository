@@ -13,9 +13,13 @@ import SubmitForm from './components/SubmitForm'
 import UseStateCounter from './components/UseStateCounter'
 import UseStateInput from './components/UseStateInput'
 import EffectDemo from './components/EffectDemo'
+import UserContext from './context/UserContext'
+import ContextUser from './components/ContextUser'
+
 
 function App() {
   return (
+  <UserContext.Provider value={{ name: 'Navodya', role: 'Student' }}>
     <div>
       <h1>React Fundamentals</h1>
 
@@ -43,7 +47,12 @@ function App() {
       <UseStateInput />
 
       <EffectDemo />
+
+      <ContextUser />
+
     </div>
+      
+  </UserContext.Provider>
   )
 }
 

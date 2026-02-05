@@ -127,12 +127,16 @@ Add the component near the bottom:
 In the next step, you will learn how to share data between components using context.
 
 ➡️ **Next Step:**  
-Go to ****  
-[](.//README.md)
+Go to **useEffect (Step 10.2)**  
+[useEffect Hook](../10.2-useEffect/README.md)
 
-⬅️ **Back to Setup:**  
+⬅️ **Back to useState (Step 10.1)**  
 Go to **useState (Step 10.1)**  
 [useState Hook](../10.1-useState/README.md)
+
+⬅️ **Back to Hooks Overview:**  
+Go to **Step 10 - Hooks**  
+[Step 10 - Hooks Overview](../10-hooks/README.md)
 
 ⬅️ **Back to Main Guide:**  
 [Main README](../README.md)
