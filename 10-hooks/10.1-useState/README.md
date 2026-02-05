@@ -190,5 +190,5 @@ Go to **Step 10 - Hooks**
 [Step 10 - Hooks Overview](../10-hooks/README.md)
 
 ⬅️ **Back to Main Guide:**  
-[Main README](../README.md)
+[Main README](./README.md)
 
